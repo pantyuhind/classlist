@@ -1,29 +1,25 @@
-.ov-hidden
-{
+/* overflow */
+
+.ov-hidden {
   overflow: hidden;
 }
 
-.ov-auto
-{
+.ov-auto {
   overflow: auto;
 }
 
-.ov-visible
-{
+.ov-visible {
   overflow: visible;
 }
 
-.ov-scroll
-{
+.ov-scroll {
   overflow: scroll;
 }
 
-.ov-y-scroll
-{
+.ov-y-scroll {
   overflow-y: scroll;
 }
 
-.ov-x-scroll
-{
+.ov-x-scroll {
   overflow-x: scroll;
 }

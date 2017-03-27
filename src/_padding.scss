@@ -1,0 +1,7 @@
+@include generateOffset(pt, padding-top);
+
+@include generateOffset(pb, padding-bottom);
+
+@include generateOffset(pl, padding-left);
+
+@include generateOffset(pr, padding-right);
